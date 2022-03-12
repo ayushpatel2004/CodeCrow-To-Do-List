@@ -22,7 +22,7 @@ In this Screen You can see That ```+``` sign which creates a new task.
 
 Here u will get dialog Box which Asks for Input ( Task ) .
 
-(<a href="https://ibb.co/wdDpsKM"><img src="https://i.ibb.co/yNLgS8W/Whats-App-Image-2022-03-12-at-11-08-08-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-08-08-PM" border="0"></a>)
+<a href="https://ibb.co/wdDpsKM"><img src="https://i.ibb.co/yNLgS8W/Whats-App-Image-2022-03-12-at-11-08-08-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-08-08-PM" border="0"></a>
 
 After Adding Tasks , they will get Arranged in List-View Manner. 
 
