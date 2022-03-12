@@ -16,17 +16,17 @@ so here comes our To-Do App which will help u remember which task you have to co
 
 <a href="https://ibb.co/4scZYCM"><img src="https://i.ibb.co/PTRZ9J4/Whats-App-Image-2022-03-12-at-11-08-11-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-08-11-PM" border="0"></a>
 
-In this Screen You can see That ```+``` sign which creates a new task.
+In this Screen You can see That ```+``` sign on Top-Right Corner, which creates a new task.
 
-<a href="https://ibb.co/56TsH6Y"><img src="https://i.ibb.co/kxKqCx3/Whats-App-Image-2022-03-12-at-11-09-20-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-09-20-PM" border="0"></a>
+<a href="https://ibb.co/80xWXKG"><img src="https://i.ibb.co/9N4FG8B/Whats-App-Image-2022-03-12-at-11-53-09-PM-1.jpg" alt="Whats-App-Image-2022-03-12-at-11-53-09-PM-1" border="0"></a>
 
 Here u will get dialog Box which Asks for Input ( Task ) .
 
-<a href="https://ibb.co/wdDpsKM"><img src="https://i.ibb.co/yNLgS8W/Whats-App-Image-2022-03-12-at-11-08-08-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-08-08-PM" border="0"></a>
+<a href="https://ibb.co/nPXscJR"><img src="https://i.ibb.co/cYWcFnx/Whats-App-Image-2022-03-12-at-11-58-36-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-58-36-PM" border="0"></a>
 
 After Adding Tasks , they will get Arranged in List-View Manner. 
 
-<a href="https://ibb.co/0VTqFQQ"><img src="https://i.ibb.co/prc2Rnn/Whats-App-Image-2022-03-12-at-11-09-24-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-09-24-PM" border="0"></a>
+<a href="https://ibb.co/bFLR1Gh"><img src="https://i.ibb.co/cwtXJs5/Whats-App-Image-2022-03-12-at-11-58-35-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-58-35-PM" border="0"></a>
 
 Once u completed a Task , just Click on ```"TASK COMPLETED"``` and It will Greet you for Completing That Task , and it will get Deleted from your To-Do List.
 
