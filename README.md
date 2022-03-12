@@ -55,3 +55,11 @@ As In one week we will have our one of the favourite and joyful Festival ```HOLI
 
 - Happy Holi !
 
+
+## Development Team
+
+- Ayush Patel (Team Leader)
+- Jainil Patel
+- Aarya Agrawal
+- Sumit Kumar
+
