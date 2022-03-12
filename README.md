@@ -28,7 +28,7 @@ After adding tasks, they will get arranged in List-View Manner.
 
 <a href="https://ibb.co/bFLR1Gh"><img src="https://i.ibb.co/cwtXJs5/Whats-App-Image-2022-03-12-at-11-58-35-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-58-35-PM" border="0"></a>
 
-Once you completed a task , just Click on ```"TASK COMPLETED"``` and it will greet you for completing that task , and it will get deleted from your To-Do List.
+Once you completed a task, just click on ```"TASK COMPLETED"``` and it will greet you for completing that task , and it will get deleted from your To-Do List.
 
 
 
