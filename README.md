@@ -8,9 +8,9 @@ To-Do List App
 
 ## General Information
 
-As Nowadays we have too much work to do, remember different tasks, and because of all this we have very Hectic schedule, still we forget something important.
+As Nowadays we have too much work to do, remember different tasks, and because of all this we have very hectic schedule, still we forget something important.
 
-so here comes our To-Do App which will help you remember which task you have to complete adding a task in it is very simple ( just one click ), and whenever a task is completed just click on ```"TASK COMPLETED"```.
+So here comes our To-Do App which will help you remember which task you have to complete adding a task in it is very simple (just one click), and whenever a task is completed just click on ```"TASK COMPLETED"```.
 
 ## Screenshots 
 
@@ -20,42 +20,42 @@ In this Screen You can see That ```+``` sign on Top-Right Corner, which creates 
 
 <a href="https://ibb.co/80xWXKG"><img src="https://i.ibb.co/9N4FG8B/Whats-App-Image-2022-03-12-at-11-53-09-PM-1.jpg" alt="Whats-App-Image-2022-03-12-at-11-53-09-PM-1" border="0"></a>
 
-Here you will get dialog Box which Asks for Input ( Task ) .
+Here you will get dialog box which asks for input (Task) .
 
 <a href="https://ibb.co/nPXscJR"><img src="https://i.ibb.co/cYWcFnx/Whats-App-Image-2022-03-12-at-11-58-36-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-58-36-PM" border="0"></a>
 
-After Adding Tasks , they will get Arranged in List-View Manner. 
+After adding tasks, they will get arranged in List-View Manner. 
 
 <a href="https://ibb.co/bFLR1Gh"><img src="https://i.ibb.co/cwtXJs5/Whats-App-Image-2022-03-12-at-11-58-35-PM.jpg" alt="Whats-App-Image-2022-03-12-at-11-58-35-PM" border="0"></a>
 
-Once u completed a Task , just Click on ```"TASK COMPLETED"``` and It will Greet you for Completing That Task , and it will get Deleted from your To-Do List.
+Once you completed a task , just Click on ```"TASK COMPLETED"``` and it will greet you for completing that task , and it will get deleted from your To-Do List.
 
 
 
 
 ## Technology
 
-So how was our Android App built? 
+So how was our android app built?
 
-well, we used some combination of Software like Android Studio & IntelliJ for writing our Java Codes & manipulating XML files, Making our first app was really tough work for all of us, but we enjoyed it :) .
+Well, we used some combination of software like Android Studio & IntelliJ for writing our java codes & manipulating XML files, making our first app was really tough work for all of us, but we enjoyed it :).
 
-about designing and icons, well the most genius website ( Google ) helped us to find correct resources ( Icon and Background Pic, etc ).
+About designing and icons, well the most genius website (Google) helped us to find correct resources (Icon and background pic, etc).
 
-Worked with Databases , to assure that once you close the app , all the tasks which are not completed are still there.
+Worked with databases, to assure that once you close the app, all the tasks which are not completed are still there.
 
-Android Studio did most of the work as it is loaded with good features for UI, and of course, correcting incorrect Syntax was another Headache but it was our best friend during this development session.
+Android Studio did most of the work as it is loaded with good features for UI, and of course, correcting incorrect syntax was another headache but it was our best friend during this development session.
 
 ## Additional Feature
 
-As In one week we will have our one of the favourite and joyful Festival ```HOLI``` , So we added Colorful Theme to Our App !!!!
+As in one week we will have our one of the favourite and joyful festival ```HOLI``` , So we added colorful theme to our app !!!!
 
 
 
 - We are also looking for adding timer function !
 
-- Thanks For using our app !
+- Thanks for using our app !!
 
-- Happy Holi !
+- HAPPY HOLI !!
 
 
 ## Development Team
