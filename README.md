@@ -35,7 +35,7 @@ Once u completed a Task , just Click on ```"TASK COMPLETED"``` and It will Greet
 
 ## Technology
 
-So how was our Android App built? ,
+So how was our Android App built? 
 
 well, we used some combination of Software like Android Studio & IntelliJ for writing our Java Codes & manipulating XML files, Making our first app was really tough work for all of us, but we enjoyed it :) .
 
