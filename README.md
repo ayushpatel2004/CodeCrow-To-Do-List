@@ -51,7 +51,9 @@ As In one week we will have our one of the favourite and joyful Festival ```HOLI
 
 
 
-- Thanks For using our app 
+- We are also looking for adding timer function !
+
+- Thanks For using our app !
 
 - Happy Holi !
 
